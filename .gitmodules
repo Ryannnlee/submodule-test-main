@@ -1,0 +1,6 @@
+[submodule "submodule-test-frontend"]
+	path = submodule-test-frontend
+	url = https://github.com/Ryannnlee/submodule-test-frontend.git
+[submodule "submodule-test-backend"]
+	path = submodule-test-backend
+	url = https://github.com/Ryannnlee/submodule-test-backend.git
